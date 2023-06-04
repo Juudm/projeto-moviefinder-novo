@@ -10,14 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22e6888f-010f-4e75-92d6-5972c8af7553" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/moviefinderproject_1685897678821.PublishSettings" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.projeto-moviefinder-novo.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.projeto-moviefinder-novo.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/moviefinder.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/moviefinder.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/moviefinder.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/moviefinder.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/moviefinder.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/moviefinder.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +70,7 @@
       <option name="AZURE_WEB_APP_SERVICE_PLAN_ID" value="" />
       <option name="AZURE_WEB_APP_SERVICE_PLAN_NAME" value="" />
       <option name="AZURE_WEB_APP_LOCATION" value="eastus" />
-      <option name="AZURE_WEB_APP_PRICING_TIER" value="S1" />
+      <option name="AZURE_WEB_APP_PRICING_TIER" value="" />
       <option name="AZURE_WEB_APP_NET_FRAMEWORK" value="4.7" />
       <option name="AZURE_WEB_APP_NET_CORE_RUNTIME" value="DOTNETCORE 2.1" />
       <option name="AZURE_WEB_APP_IS_DEPLOY_TO_SLOT" value="0" />
@@ -192,7 +186,8 @@
       <workItem from="1685845280000" duration="1170000" />
       <workItem from="1685846527263" duration="450000" />
       <workItem from="1685886400999" duration="2781000" />
-      <workItem from="1685897231674" duration="80000" />
+      <workItem from="1685897231674" duration="244000" />
+      <workItem from="1685897517678" duration="311000" />
     </task>
     <servers />
   </component>
